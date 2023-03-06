@@ -1,0 +1,5 @@
+website : amazon ||email :  krishnvaibhav.12c1@gmail.com ||password : 1224 
+website : amazon ||email :  krishnvaibhav.12c1@gmail.com ||password : 12234 
+website : flipkart ||email :  krishnvaibhav.12c1@gmail.com ||password : 56798 
+website : django ||email :  krishnvaibhav.12c1@gmail.com ||password : cgCR85Rn7y 
+website : flask ||email :  krishnvaibhav.12c1@gmail.com ||password : 4ovayL0m3K 
